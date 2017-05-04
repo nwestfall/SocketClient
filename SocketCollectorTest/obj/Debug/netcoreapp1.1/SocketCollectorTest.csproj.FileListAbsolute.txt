@@ -1,0 +1,9 @@
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\SocketCollectorTest\SocketCollectorTest\bin\Debug\netcoreapp1.1\SocketCollectorTest.deps.json
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\SocketCollectorTest\SocketCollectorTest\bin\Debug\netcoreapp1.1\SocketCollectorTest.runtimeconfig.json
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\SocketCollectorTest\SocketCollectorTest\bin\Debug\netcoreapp1.1\SocketCollectorTest.runtimeconfig.dev.json
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\SocketCollectorTest\SocketCollectorTest\bin\Debug\netcoreapp1.1\SocketCollectorTest.dll
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\SocketCollectorTest\SocketCollectorTest\bin\Debug\netcoreapp1.1\SocketCollectorTest.pdb
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\SocketCollectorTest\SocketCollectorTest\obj\Debug\netcoreapp1.1\SocketCollectorTest.csprojResolveAssemblyReference.cache
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\SocketCollectorTest\SocketCollectorTest\obj\Debug\netcoreapp1.1\SocketCollectorTest.AssemblyInfo.cs
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\SocketCollectorTest\SocketCollectorTest\obj\Debug\netcoreapp1.1\SocketCollectorTest.dll
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\SocketCollectorTest\SocketCollectorTest\obj\Debug\netcoreapp1.1\SocketCollectorTest.pdb
