@@ -43,16 +43,17 @@ namespace SocketClient
                 //Start
                 Console.WriteLine("Starting Socket Client!  Stop sending data by clicking any key in the console");
                 bool canConnect = client.Connect();
-                if (!canConnect)
-                    return;
-                client.ReadFile();
-                client.SendData();
-                Console.ReadLine();
-                client.StopSendingData();
+                if (canConnect)
+                {
+                    client.ReadFile();
+                    client.SendData();
+                    Console.ReadKey();
+                    client.StopSendingData();
+                }
             }
 
             Console.WriteLine("Press any key to exit");
-            Console.ReadLine();
+            Console.ReadKey();
             return; //Quit
         }
     }

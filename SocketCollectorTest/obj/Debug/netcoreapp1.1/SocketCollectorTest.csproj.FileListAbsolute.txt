@@ -7,3 +7,12 @@ c:\users\nathan.westfall\documents\visual studio 2017\Projects\SocketCollectorTe
 c:\users\nathan.westfall\documents\visual studio 2017\Projects\SocketCollectorTest\SocketCollectorTest\obj\Debug\netcoreapp1.1\SocketCollectorTest.AssemblyInfo.cs
 c:\users\nathan.westfall\documents\visual studio 2017\Projects\SocketCollectorTest\SocketCollectorTest\obj\Debug\netcoreapp1.1\SocketCollectorTest.dll
 c:\users\nathan.westfall\documents\visual studio 2017\Projects\SocketCollectorTest\SocketCollectorTest\obj\Debug\netcoreapp1.1\SocketCollectorTest.pdb
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\bin\Debug\netcoreapp1.1\SocketClient.deps.json
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\bin\Debug\netcoreapp1.1\SocketClient.runtimeconfig.json
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\bin\Debug\netcoreapp1.1\SocketClient.runtimeconfig.dev.json
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\bin\Debug\netcoreapp1.1\SocketClient.dll
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\bin\Debug\netcoreapp1.1\SocketClient.pdb
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\obj\Debug\netcoreapp1.1\SocketCollectorTest.csprojResolveAssemblyReference.cache
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\obj\Debug\netcoreapp1.1\SocketCollectorTest.AssemblyInfo.cs
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\obj\Debug\netcoreapp1.1\SocketClient.dll
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\obj\Debug\netcoreapp1.1\SocketClient.pdb
