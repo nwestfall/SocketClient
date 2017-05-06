@@ -1,0 +1,11 @@
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\bin\Release\netcoreapp1.1\osx.10.11-x64\libhostpolicy.dylib
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\bin\Release\netcoreapp1.1\osx.10.11-x64\libhostfxr.dylib
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\bin\Release\netcoreapp1.1\osx.10.11-x64\SocketClient
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\bin\Release\netcoreapp1.1\osx.10.11-x64\SocketClient.deps.json
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\bin\Release\netcoreapp1.1\osx.10.11-x64\SocketClient.runtimeconfig.json
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\bin\Release\netcoreapp1.1\osx.10.11-x64\SocketClient.runtimeconfig.dev.json
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\bin\Release\netcoreapp1.1\osx.10.11-x64\SocketClient.dll
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\bin\Release\netcoreapp1.1\osx.10.11-x64\SocketClient.pdb
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\obj\Release\netcoreapp1.1\osx.10.11-x64\SocketCollectorTest.AssemblyInfo.cs
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\obj\Release\netcoreapp1.1\osx.10.11-x64\SocketClient.dll
+C:\Users\natha\Documents\Visual Studio 2017\Projects\SocketClient\SocketCollectorTest\obj\Release\netcoreapp1.1\osx.10.11-x64\SocketClient.pdb

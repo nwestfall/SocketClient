@@ -5,6 +5,7 @@
     <TargetFramework>netcoreapp1.1</TargetFramework>
     <AssemblyName>SocketClient</AssemblyName>
     <RootNamespace>SocketClient</RootNamespace>
+    <RuntimeIdentifiers>win10-x64;osx.10.11-x64</RuntimeIdentifiers>
   </PropertyGroup>
 
 </Project>
