@@ -7081,13 +7081,16 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\natha\\Documents\\Visual Studio 2017\\Projects\\SocketClient\\SocketCollectorTest\\SocketCollectorTest.csproj",
-      "projectName": "SocketCollectorTest",
+      "projectName": "SocketClient",
       "projectPath": "C:\\Users\\natha\\Documents\\Visual Studio 2017\\Projects\\SocketClient\\SocketCollectorTest\\SocketCollectorTest.csproj",
       "outputPath": "C:\\Users\\natha\\Documents\\Visual Studio 2017\\Projects\\SocketClient\\SocketCollectorTest\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
+      "files": {
+        "lib/netcoreapp1.1/SocketClient.dll": "C:\\Users\\natha\\Documents\\Visual Studio 2017\\Projects\\SocketClient\\SocketCollectorTest\\bin\\placeholder\\netcoreapp1.1\\SocketClient.dll"
+      },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}
@@ -7099,8 +7102,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "1.1.1",
-            "autoReferenced": true
+            "version": "1.1.1"
           }
         }
       }
